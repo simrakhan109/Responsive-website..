@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>abcd</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <div class="menu-bar">
+
+        <nav>
+            <ul >
+                <a href="aaa" ><b>START BOOTSRAP</b></a>
+            </ul>
+            
+             <ul> 
+                <li><a href="">Platform</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Signup</a></li>
+                 <div class="join">
+                 <a class="item"><b>MENU</b></a>
+                 <a class="burger-nav"></a>
+                 </div>
+            </ul>
+        </nav>
+    </div>
+    
+    
+    <div class="img">
+        <center><img src="ava.svg" width="200" ></center>
+        <center><b><h2>START BOOTSTRAP</h2></b></center>
+        <div class="line">
+        <b><hr color="white" ></b>
+        <img src="white.png" width="30" alt="star">
+        <b><hr color="white" ></b>
+        </div>
+        <center><p> GraphicArtist - Web Designer - Illustrator</p></center>
+    </div>
+    
+    <center><h1>PORTFOLIO</h1></center>
+    
+<div class="black">
+    <div class="line">
+        <b><hr color="black" ></b>
+        <img src="black.png" width="20" alt="star">
+        <b><hr color="black" ></b>
+    </div>
+</div>
+    
+    <sextion id="block">
+        
+        <article>
+             <img src="circus.png" width="280"
+                  style="border-radius: 16px;"/> 
+       
+        </article>
+        
+        <article>
+             <img src="cake.png" width="280"
+                  style="border-radius: 16px;"/> 
+       
+        </article>
+        
+        <article>
+             <img src="cabin.png" width="280"
+            style="border-radius: 16px;"/> 
+       
+        </article>
+        
+        <article>
+             <img src="game.png" width="280"
+                  style="border-radius: 16px;"/> 
+       
+        </article>
+        
+         <article>
+             <img src="safe.png" width="280"
+            style="border-radius: 16px;"/> 
+       
+        </article>
+        
+         <article>
+             <img src="submarine.png" width="280"
+               style="border-radius: 16px;"/> 
+       
+        </article>
+        
+        
+    </sextion>
+    
+    
+    <div class="about">
+        <center><b><h1>ABOUT</h1></b></center>
+        
+       <p>Freelance is a free bootstrap theme created by start bootstrap. The download includes the complete source files including HTML, CSS and Javascript as well as optional SASS stylesheets for easy customization.
+        You can create your own custom avatar fot the masthead, change the icon in the dividers, and add yout email address to the contact form to make it fully functional!</p>
+    </div>
+    
+      </body>
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script> src="menu.js"</script>
+</html>
+    
